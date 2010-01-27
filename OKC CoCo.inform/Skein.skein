@@ -1,0 +1,3364 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x1652f660" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x1652f660" />
+  <item nodeId="node-0x1652f660">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+OKC CoCo
+An Interactive Fiction by Tim Gourley
+Release 1 / Serial number 100127 / Inform 7 build 5Z71 (I6/v6.31 lib 6/12N) SD
+
+Shared Lobby
+The lobby echoes and feels cold. It opens to several business but the only one of interest to you is the Oklahoma City Coworking Collaborative, to the north of the lobby. The door stands open and you feel an almost magnetic urge to enter and take part in the magical wonders within.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="177">NO</temporary>
+    <children>
+      <child nodeId="node-0x17d734d0" />
+      <child nodeId="node-0x1652f6b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652f6b0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open. A divider partially hides the meeting space to the east, and to the west is an impenetrable door to the fixed desk area.
+
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652f700" />
+      <child nodeId="node-0x17d71d30" />
+      <child nodeId="node-0x17d719b0" />
+      <child nodeId="node-0x17d72120" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72120">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73230" />
+      <child nodeId="node-0x17d72890" />
+      <child nodeId="node-0x17d72190" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72190">
+    <command xml:space="preserve">get bag</command>
+    <result xml:space="preserve">Meaghan glares at you from her desk and you suddenly feel compelled to not take the bag. But maybe rummaging through it will be ok?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72200" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72200">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72270" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72270">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d722e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d722e0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">That&apos;s already open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72350" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72350">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d723c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d723c0">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a Macbook
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72430" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72430">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d724a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d724a0">
+    <command xml:space="preserve">look keycard</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72510" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72510">
+    <command xml:space="preserve">examine keycard</command>
+    <result xml:space="preserve">The biometric keycard hums softly as you hold it. It contains the 3D holograph of an iris. It looks like it is a very important keycard!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72580" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72580">
+    <command xml:space="preserve">examine macbook</command>
+    <result xml:space="preserve">There is a sticker on the Macbook reading, &quot;Property of Derrick Parkhurst&quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d725f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d725f0">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72660" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72660">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a Macbook and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d726d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d726d0">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72740" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72740">
+    <command xml:space="preserve">put macbook in bag</command>
+    <result xml:space="preserve">You put the Macbook into the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d727b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d727b0">
+    <command xml:space="preserve">close bag</command>
+    <result xml:space="preserve">You close the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72820" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72820">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="63">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d72890">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72f90" />
+      <child nodeId="node-0x17d72900" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72900">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72970" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72970">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d729e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d729e0">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72a50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a smashed pieces of a Macbook. and a laptop bag (in which is a biometric keycard) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72ac0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72b30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72b30">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72ba0">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72c10">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72c80">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Chad Henderson here.
+
+&quot;If I ever find out who destroyed my Macbook&quot;, Chad fumes with a vein pulsing on his forehead, &quot;I will kill them with my bare hands!&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72cf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72cf0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72d60">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72dd0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a smashed pieces of a Macbook. and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72e40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72e40">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72eb0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72f20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72f20">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+You can see a shiny door and Chad Henderson here.
+
+Chad charges at you screaming, &quot;It was YOU! YOU broke my Macbook!&quot; Lasers shoot from his eyes, rendering you dead.
+
+
+
+    *** You have died ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="184">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d72f90">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="154">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73000" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73000">
+    <command xml:space="preserve">close bag</command>
+    <result xml:space="preserve">You close the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="154">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73070" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73070">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="154">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d730e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d730e0">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="154">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73150" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73150">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="154">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d731c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d731c0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Derrick Parkhurst here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="153">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d73230">
+    <command xml:space="preserve">open back</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d732a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d732a0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73310" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73310">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73380" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73380">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d733f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d733f0">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73460" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73460">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a smashed remnant of a Macbook. and a laptop bag (in which is a biometric keycard) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="192">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d719b0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71a90" />
+      <child nodeId="node-0x17d71a20" />
+      <child nodeId="node-0x17d71be0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71be0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71c50">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">(with the shiny door)
+(first taking the shiny door)
+That&apos;s fixed in place.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71cc0">
+    <command xml:space="preserve">unlock door with keycard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d71a20">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="71">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d71a90">
+    <command xml:space="preserve">take derrick</command>
+    <result xml:space="preserve">I don&apos;t suppose Derrick Parkhurst would care for that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71b00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71b00">
+    <command xml:space="preserve">kill derrick</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71b70" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71b70">
+    <command xml:space="preserve">dance with derrick</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d71d30">
+    <command xml:space="preserve">exits</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71da0">
+    <command xml:space="preserve">directions</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71e10">
+    <command xml:space="preserve">examine social area</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71e80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71ef0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71f60">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71fd0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Shared Lobby
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d72040" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d72040">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Social Area
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d720b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d720b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+  </item>
+  <item nodeId="node-0x1652f700">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652f940" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652f940">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You can&apos;t unlock the door from this side without some sort of key...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71400" />
+      <child nodeId="node-0x1652f990" />
+      <child nodeId="node-0x1652ff00" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652ff00">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d703d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d703d0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70420" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70420">
+    <command xml:space="preserve">get bag</command>
+    <result xml:space="preserve">Maeghan glares at you from her desk and you suddenly feel compelled to not take the bag. But maybe rummaging through it will be ok?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70470" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70470">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d704e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d704e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (in which are a Macbook and a biometric keycard) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70550" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70550">
+    <command xml:space="preserve">examine macbook</command>
+    <result xml:space="preserve">There is a sticker on the Macbook reading, &quot;Property of Derrick Parkhurst&quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fda0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fda0">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fdf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fdf0">
+    <command xml:space="preserve">eat macbook</command>
+    <result xml:space="preserve">That&apos;s plainly inedible.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70740" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70740">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d707b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d707b0">
+    <command xml:space="preserve">kick macbook</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70820" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70820">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a Macbook and a laptop bag (in which is a biometric keycard) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70890" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70890">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70900" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70900">
+    <command xml:space="preserve">examine keycard</command>
+    <result xml:space="preserve">The biometric keycard hums softly as you hold it. It contains the 3D holograph of an iris. It looks like it is a very important keycard!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70970" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70970">
+    <command xml:space="preserve">put macbook in bag</command>
+    <result xml:space="preserve">You need to be holding the Macbook before you can put it into something else.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d709e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d709e0">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70a50">
+    <command xml:space="preserve">put macbook in bag</command>
+    <result xml:space="preserve">You put the Macbook into the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70ac0">
+    <command xml:space="preserve">close bag</command>
+    <result xml:space="preserve">You close the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70b30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70b30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70ba0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d705c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d705c0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70630" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70630">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d706a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d706a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open. A divider partially hides the meeting space to the east, and to the west is an impenetrable door to the fixed desk area.
+
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70e50">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70ec0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">You can&apos;t, since the shiny door is in the way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70f30">
+    <command xml:space="preserve">enter shiny door</command>
+    <result xml:space="preserve">You can&apos;t, since the shiny door is in the way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70fa0">
+    <command xml:space="preserve">open shiny door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71010" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71010">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Derrick Parkhurst here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71080" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71080">
+    <command xml:space="preserve">give keycard derrick</command>
+    <result xml:space="preserve">You can only do that to something animate.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d710f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d710f0">
+    <command xml:space="preserve">give keycard to derrick</command>
+    <result xml:space="preserve">Derrick Parkhurst doesn&apos;t seem interested.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71160" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71160">
+    <command xml:space="preserve">kick derrick</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d711d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d711d0">
+    <command xml:space="preserve">kill derrick</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71240" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71240">
+    <command xml:space="preserve">wear derrick</command>
+    <result xml:space="preserve">(first taking Derrick Parkhurst)
+I don&apos;t suppose Derrick Parkhurst would care for that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d712b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d712b0">
+    <command xml:space="preserve">take derrick</command>
+    <result xml:space="preserve">I don&apos;t suppose Derrick Parkhurst would care for that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71320" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71320">
+    <command xml:space="preserve">talk derrick</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="124">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71390" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71390">
+    <command xml:space="preserve">talk to derrick</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="123">YES</temporary>
+  </item>
+  <item nodeId="node-0x1652f990">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652f9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652f9e0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fa30" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fa30">
+    <command xml:space="preserve">get bag</command>
+    <result xml:space="preserve">Maeghan glares at you from her desk and you suddenly feel compelled to not take the bag. But maybe rummaging through it will be ok?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fac0">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fb10" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fb10">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fb60" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fb60">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fbb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fbb0">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fd50" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fd50">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652fe60" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652fe60">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Chad Henderson here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+    <children>
+      <child nodeId="node-0x1652feb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1652feb0">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+Chad charges at you screaming, &quot;It was YOU! YOU broke my Macbook!&quot; Lasers shoot from his eyes, rendering you dead.
+&quot;If I ever find out who destroyed my Macbook&quot;, Chad fumes with a vein pulsing on his forehead, &quot;I will kill them with my bare hands!&quot;
+
+
+
+    *** You have died ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="166">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d71400">
+    <command xml:space="preserve">attack door</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71470" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71470">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d714e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d714e0">
+    <command xml:space="preserve">get laptop bag</command>
+    <result xml:space="preserve">Maeghan glares at you from her desk and you suddenly feel compelled to not take the bag. But maybe rummaging through it will be ok?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71550" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71550">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70c10">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70c80">
+    <command xml:space="preserve">examine macbook</command>
+    <result xml:space="preserve">There is a sticker on the Macbook reading, &quot;Property of Derrick Parkhurst&quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70cf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70cf0">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70d60">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d70dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d70dd0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (in which is a biometric keycard) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d715c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d715c0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71630" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71630">
+    <command xml:space="preserve">close bag</command>
+    <result xml:space="preserve">You close the laptop bag.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d716a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d716a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71710" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71710">
+    <command xml:space="preserve">examine keycard</command>
+    <result xml:space="preserve">The biometric keycard hums softly as you hold it. It contains the 3D holograph of an iris. It looks like it is a very important keycard!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71780" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71780">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d717f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d717f0">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71860" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71860">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d718d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d718d0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Derrick Parkhurst here.
+
+&quot;If I ever find out who destroyed my Macbook&quot;, Derrick fumes with a vein pulsing on his forehead, &quot;I will kill them with my bare hands!&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d71940" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d71940">
+    <command xml:space="preserve">lock door</command>
+    <result xml:space="preserve">With the press of a button and the beeps of electronics, the shiny door is now locked.
+
+&quot;If I ever find out who destroyed my Macbook&quot;, Derrick fumes with a vein pulsing on his forehead, &quot;I will kill them with my bare hands!&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="144">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d734d0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open. A divider partially hides the meeting space to the east, to the west is an impenetrable door to the fixed desk area, and to the south is the shared lobby.
+
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74d50" />
+      <child nodeId="node-0x17d73540" />
+      <child nodeId="node-0x17d76090" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76090">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76100" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76100">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You can&apos;t unlock the door from this side without some sort of key...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76170" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76170">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a suspicious panel and a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d761e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d761e0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76250" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76250">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d762c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d762c0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76330" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76330">
+    <command xml:space="preserve">examine macbook</command>
+    <result xml:space="preserve">There is a sticker on the Macbook reading, &quot;Property of Chad Henderson&quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d763a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d763a0">
+    <command xml:space="preserve">examine keycard</command>
+    <result xml:space="preserve">The biometric keycard hums softly as you hold it. It contains the 3D holograph of an iris. It looks like it is a very important keycard!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76410" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76410">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the suspicious panel.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76480" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76480">
+    <command xml:space="preserve">examine panel</command>
+    <result xml:space="preserve">You see nothing special about the suspicious panel.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d764f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d764f0">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Long Tunnel
+The tunnel stretches out for what seems miles. It is faintly illuminated from some unknown source, but the amount of dust and cobwebs obscures your vision. You hear a faint sound coming from a distance. As you travel down the tunnel, you see a dropoff leading down, with a small rope ladder bolted in place. Should you head down?
+
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76560" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76560">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Antechamber
+The tunnel opens up into an antechamber filled with arboresque furniture. An antique turntable plays a recording long forgotten. Someone must have been here recently to put the record on, but the room looks deserted now. The antechamber splits off into two hallways: one to the north and one to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d765d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d765d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Armory
+Various armaments line the walls on display. It looks like a scene out of Buffy the Vampire Slayer in here! In the center of the room rests a glowing sword that calls out to you.
+
+You can see a glowing sword here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76640" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76640">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d766b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d766b0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Antechamber
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76720" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76720">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Long Tunnel
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76790" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76790">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76800" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76800">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76870" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76870">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d768e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d768e0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76950" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76950">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d769c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d769c0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Chad Henderson here.
+
+Chad looks at you with anger, but noticing your sword he backs down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76a30">
+    <command xml:space="preserve">attack chad with sword</command>
+    <result xml:space="preserve">I only understood you as far as wanting to attack Chad Henderson.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76aa0">
+    <command xml:space="preserve">attack chad with the sword</command>
+    <result xml:space="preserve">I only understood you as far as wanting to attack Chad Henderson.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76b10">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Chad rises up to attack but you slay the mighty beast, ending his reign of terror once and for all!
+
+
+
+    *** You have won ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="47">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d73540">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a suspicious panel and a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74880" />
+      <child nodeId="node-0x17d735b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d735b0">
+    <command xml:space="preserve">examine panel</command>
+    <result xml:space="preserve">A small panel looks discolored and slightly out of place. It is like you can tug on it to open it. Maybe it leads somewhere?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73620" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73620">
+    <command xml:space="preserve">examine bag</command>
+    <result xml:space="preserve">You can&apos;t see inside, since the laptop bag is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73690" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73690">
+    <command xml:space="preserve">look bag</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73700" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73700">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting.
+
+You can see a suspicious panel and a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73770" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73770">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d737e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d737e0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73850" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73850">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d738c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d738c0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73930" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73930">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the suspicious panel.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d739a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d739a0">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Long Tunnel
+The tunnel stretches out for what seems miles. It is faintly illuminated from some unknown source, but the amount of dust and cobwebs obscures your vision. You hear a faint sound coming from a distance. As you travel down the tunnel, you see a dropoff leading down, with a small rope ladder bolted in place. Should you head down?
+
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73a10">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73a80">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Antechamber
+The tunnel opens up into an antechamber filled with arboresque furniture. An antique turntable plays a recording long forgotten. Someone must have been here recently to put the record on, but the room looks deserted now. The antechamber splits off into two hallways: one to the north and one to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73af0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Armory
+Various armaments line the walls on display. It looks like a scene out of Buffy the Vampire Slayer in here! In the center of the room rests a glowing sword that calls out to you.
+
+The sword emenates a power unlike any you have ever seen.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73b60">
+    <command xml:space="preserve">examine sword</command>
+    <result xml:space="preserve">You see nothing special about the glowing sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73bd0">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73c40">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">You already have that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73cb0">
+    <command xml:space="preserve">examine sword</command>
+    <result xml:space="preserve">You see nothing special about the glowing sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73d20">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Antechamber
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73d90">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Long Tunnel
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73e00">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73e70">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73ee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73ee0">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73f50">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">You can&apos;t, since the shiny door is in the way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d73fc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d73fc0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74030" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74030">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Chad Henderson here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d740a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d740a0">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Is it really worth slaying Chad with your sword for no good reason?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74110" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74110">
+    <command xml:space="preserve">drop sword</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74180" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74180">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">What good would that accomplish?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d741f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d741f0">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74260" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74260">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d742d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d742d0">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED!
+
+Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74340" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74340">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a smashed remnant of a Macbook., a shiny door, and Chad Henderson here.
+
+Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d743b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d743b0">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+Chad looks at you with anger, but noticing your sword he backs down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74420" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74420">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74490" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74490">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74500" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74500">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a smashed remnant of a Macbook., a shiny door, and Chad Henderson here.
+
+Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74570" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74570">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+Chad looks at you with anger, but noticing your sword he backs down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74650" />
+      <child nodeId="node-0x17d745e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d745e0">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Chad rises up to attack but you slay the mighty beast, ending his reign of terror once and for all!
+
+
+
+    *** You have won ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d74650">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a smashed remnant of a Macbook.
+  a glowing sword
+  a biometric keycard
+
+Chad looks at you with anger, but noticing your sword he backs down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d746c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d746c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. You suddenly feel as if everything is going to be alright.
+
+You can see a shiny door and Chad Henderson here.
+
+Chad looks at you with anger, but noticing your sword he backs down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74730" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74730">
+    <command xml:space="preserve">drop macbook</command>
+    <result xml:space="preserve">Dropped.
+
+Chad admires your sword.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d747a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d747a0">
+    <command xml:space="preserve">drop sword</command>
+    <result xml:space="preserve">Dropped.
+
+&quot;If I ever find out who destroyed my Macbook&quot;, Chad fumes with a vein pulsing on his forehead, &quot;I will kill them with my bare hands!&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74810" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74810">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">You wail on Chad with your wimpy slaps but he only laughs and destroys you with his mind.
+
+
+
+    *** You have died ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="131">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d74880">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the suspicious panel.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d748f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d748f0">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Long Tunnel
+The tunnel stretches out for what seems miles. It is faintly illuminated from some unknown source, but the amount of dust and cobwebs obscures your vision. You hear a faint sound coming from a distance. As you travel down the tunnel, you see a dropoff leading down, with a small rope ladder bolted in place. Should you head down?
+
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74960" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74960">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Antechamber
+The tunnel opens up into an antechamber filled with arboresque furniture. An antique turntable plays a recording long forgotten. Someone must have been here recently to put the record on, but the room looks deserted now. The antechamber splits off into two hallways: one to the north and one to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d749d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d749d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Armory
+Various armaments line the walls on display. It looks like a scene out of Buffy the Vampire Slayer in here! In the center of the room rests a glowing sword that calls out to you.
+
+You can see a glowing sword here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74a40">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74ab0">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a glowing sword
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74b20">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Antechamber
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74b90">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Long Tunnel
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74c00">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74c70">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74ce0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+  </item>
+  <item nodeId="node-0x17d74d50">
+    <command xml:space="preserve">examine door</command>
+    <result xml:space="preserve">The door is made of reinforced glass and looks to be impregnable. You see someone sitting alone on the other side. A complex biometric key mechanism stands between you and finding out who the person is.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74dc0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74e30">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You can&apos;t unlock the door from this side without some sort of key...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74ea0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+The meeting space contains several rows of tables and chairs. A podium is set up for a presenter to give various talks. You especially want to hear that sexy Tim Gourley give his talk at the next Geek Writers meeting. You can see the Social Area to the west.
+
+You can see a suspicious panel and a laptop bag (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74f10">
+    <command xml:space="preserve">examine panel</command>
+    <result xml:space="preserve">A small panel looks discolored and slightly out of place. It is like you can tug on it to open it. Maybe it leads somewhere?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74f80">
+    <command xml:space="preserve">examine bag</command>
+    <result xml:space="preserve">You can&apos;t see inside, since the laptop bag is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d74ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d74ff0">
+    <command xml:space="preserve">open bag</command>
+    <result xml:space="preserve">You open the laptop bag, revealing a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75060" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75060">
+    <command xml:space="preserve">examine bag</command>
+    <result xml:space="preserve">In the laptop bag are a Macbook and a biometric keycard.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d750d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d750d0">
+    <command xml:space="preserve">examine macbook</command>
+    <result xml:space="preserve">There is a sticker on the Macbook reading, &quot;Property of Chad Henderson&quot;. The Macbook feels evil. You instinctively know it is used as part of a plot to take over the world.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75140" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75140">
+    <command xml:space="preserve">examine keycard</command>
+    <result xml:space="preserve">The biometric keycard hums softly as you hold it. It contains the 3D holograph of an iris. It looks like it is a very important keycard!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d751b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d751b0">
+    <command xml:space="preserve">get keycard</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75220" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75220">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75290" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75290">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75300" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75300">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open the shiny door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75370" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75370">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+The Fixed Desk Area is a place of magic and wonders! You now feel complete that you have made it this far. The aura of puppies, unicorns, narwhals, and sizzling bacon surrounds you.
+
+You can see a shiny door and Chad Henderson here.
+
+Have you seen my Macbook? I need it to help me take over the world.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d753e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d753e0">
+    <command xml:space="preserve">examine chad</command>
+    <result xml:space="preserve">You see nothing special about Chad Henderson.
+
+Have you seen my Macbook? I need it to help me take over the world.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75450" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75450">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d754c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d754c0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75530" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75530">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Social Area
+The CoCo&apos;s social area feels open and colorful. Several paintings and photographs from local artists hang on the inner walls while the windows on the outer walls allow ample light to enter the space. It feels welcoming and open. A divider partially hides the meeting space to the east, to the west is an impenetrable door to the fixed desk area, and to the south is the shared lobby.
+
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d755a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d755a0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (in which is a Macbook) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75610" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75610">
+    <command xml:space="preserve">get macbook</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75680" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75680">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d756f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d756f0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+You can see a shiny door and Chad Henderson here.
+
+Chad looks at you and says, &quot;I have a Macbook just like that! I plan on using it to take over the world.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75760" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75760">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">What good would that accomplish?
+
+Chad looks at you and says, &quot;I have a Macbook just like that! I plan on using it to take over the world.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d757d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d757d0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75840" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75840">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d758b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d758b0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75920" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75920">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the suspicious panel.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75990" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75990">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Long Tunnel
+The tunnel stretches out for what seems miles. It is faintly illuminated from some unknown source, but the amount of dust and cobwebs obscures your vision. You hear a faint sound coming from a distance. As you travel down the tunnel, you see a drop-off leading down, with a small rope ladder bolted in place. Should you head down?
+
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75a00">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Antechamber
+The tunnel opens up into an antechamber filled with arboresque furniture. An antique turntable plays a recording long forgotten. Someone must have been here recently to put the record on, but the room looks deserted now. The antechamber splits off into two hallways: one to the north and one to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75a70" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75a70">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Armory
+Various armaments line the walls on display. It looks like a scene out of Buffy the Vampire Slayer in here! In the center of the room rests a glowing sword that calls out to you.
+
+You can see a glowing sword here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75ae0">
+    <command xml:space="preserve">get sword</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75b50">
+    <command xml:space="preserve">examine sword</command>
+    <result xml:space="preserve">The sword emanates a power unlike any you have ever seen. It could likely be used to dispatch those trying to take over the world.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75bc0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Antechamber
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75c30">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Long Tunnel
+You can see a suspicious panel here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75ca0">
+    <command xml:space="preserve">enter panel</command>
+    <result xml:space="preserve">
+Meeting Space
+You can see a suspicious panel and a laptop bag (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75d10">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75d80">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+You can see a shiny door and Chad Henderson here.
+
+Chad looks at you and says, &quot;I have a Macbook just like that! I plan on using it to take over the world.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75df0">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Is it really worth slaying Chad with your sword for no good reason?
+
+Chad looks at you and says, &quot;I have a Macbook just like that! I plan on using it to take over the world.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75e60">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Social Area
+You can see a shiny door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75ed0">
+    <command xml:space="preserve">attack macbook</command>
+    <result xml:space="preserve">You smash the Macbook to a million little pieces! The owner is going to be PISSED but the world has been saved!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75f40">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:
+  a glowing sword
+  a smashed remnant of an evil Macbook.
+  a biometric keycard
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d75fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d75fb0">
+    <command xml:space="preserve">enter door</command>
+    <result xml:space="preserve">
+Fixed Desk Area
+You can see a shiny door and Chad Henderson here.
+
+Chad looks at you with anger, but noticing your sword he backs down. &quot;My plans to take over the world have been thwarted! But I still remain free to sow chaos on the world!&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x17d76020" />
+    </children>
+  </item>
+  <item nodeId="node-0x17d76020">
+    <command xml:space="preserve">attack chad</command>
+    <result xml:space="preserve">Chad rises up to attack but you slay the mighty beast, ending his reign of terror once and for all!
+
+
+
+    *** You have won ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="176">YES</temporary>
+  </item>
+</Skein>
